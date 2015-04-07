@@ -1,0 +1,29 @@
+From 01e1134733f907746cf1d938dfa6078a3bd5cae7 Mon Sep 17 00:00:00 2001
+From: prashantkashyap <prashant.kr06@gmail.com>
+Date: Mon, 6 Apr 2015 12:34:10 +0530
+Subject: [PATCH 1/4] ADDEd new file & directory
+
+---
+ practice | 1 +
+ test03   | 1 +
+ 2 files changed, 2 insertions(+)
+ create mode 160000 practice
+ create mode 100644 test03
+
+diff --git a/practice b/practice
+new file mode 160000
+index 0000000..d9b3f0b
+--- /dev/null
++++ b/practice
+@@ -0,0 +1 @@
++Subproject commit d9b3f0bf96454107e4649e03682ed3022d8c97ee
+diff --git a/test03 b/test03
+new file mode 100644
+index 0000000..711364c
+--- /dev/null
++++ b/test03
+@@ -0,0 +1 @@
++useless data
+-- 
+1.9.1
+

@@ -1,0 +1,19 @@
+From 72394b7bc9488c771a56930c11737980a0ec6a8a Mon Sep 17 00:00:00 2001
+From: prashantkashyap <prashant.kr06@gmail.com>
+Date: Mon, 6 Apr 2015 13:10:39 +0530
+Subject: [PATCH 2/4] this is the test for new remote repo
+
+---
+ test02 | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/test02 b/test02
+index 27d6bfd..fdc07a7 100644
+--- a/test02
++++ b/test02
+@@ -1 +1 @@
+-Added a remote repo
++I added remote repo
+-- 
+1.9.1
+
